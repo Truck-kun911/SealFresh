@@ -1,2 +1,2 @@
 # SealFresh
-![SealFresh moodboard](C:\Users\razqn\OneDrive\图片\Saved Pictures\Whatsapp\SealFresh MoodBoard.png)
+![SealFresh MoodBoard](https://github.com/user-attachments/assets/597f2403-38f6-4a9d-b756-50a294d96fdc)
