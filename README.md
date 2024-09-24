@@ -3,7 +3,7 @@
 <br><br>
 <br><br>
 ## Contents:
-- About
+- [About](https://github.com/Truck-kun911/SealFresh/blob/main/ABOUT.md)
 - Members
 - Website
 - Mobile App
