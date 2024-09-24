@@ -8,5 +8,5 @@
 - [Website](https://github.com/Truck-kun911/SealFresh/blob/Preview/WixWebsite.md)
 - [Mobile App](https://github.com/Truck-kun911/SealFresh/blob/Preview/FigmaMobileApp.md)
 - [Mobile App User Manual](https://github.com/Truck-kun911/SealFresh/blob/Preview/CanvaMobileAppManual.md)
-- Recorded Video Presentation
+- [Recorded Video Presentation](https://github.com/Truck-kun911/SealFresh/blob/Preview/VideoPresentation.md)
 
