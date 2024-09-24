@@ -4,7 +4,7 @@
 <br><br>
 ## Contents:
 - [About](https://github.com/Truck-kun911/SealFresh/blob/main/ABOUT.md)
-- Members
+- [Members](https://github.com/Truck-kun911/SealFresh/blob/main/MEMBERS.md)
 - Website
 - Mobile App
 - Mobile App User Manual
