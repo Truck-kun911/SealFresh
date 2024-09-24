@@ -5,7 +5,7 @@
 ## Contents:
 - [About](https://github.com/Truck-kun911/SealFresh/blob/main/ABOUT.md)
 - [Members](https://github.com/Truck-kun911/SealFresh/blob/main/MEMBERS.md)
-- Website
+- [Website](https://github.com/Truck-kun911/SealFresh/blob/main/WixWebsite.md)
 - Mobile App
 - Mobile App User Manual
 - Recorded Video Presentation
